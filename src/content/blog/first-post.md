@@ -29,4 +29,4 @@ Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra
 
 # Section
 
-Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique [Enlace](http://example.com){:target="_blank"}.
+Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique [Enlace](http://example.com).
